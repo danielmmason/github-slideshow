@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+our song is slammer 32 sneaking out late
 Use the left arrow to go back!
